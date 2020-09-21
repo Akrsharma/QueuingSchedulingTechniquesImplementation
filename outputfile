@@ -1,0 +1,22 @@
+N         P         Queue Type          Average Packet Delay          Standard Deviation of Packet Delay      Average Link Utilization                
+
+32        0.5       KOUQ                2                             0                                       0.331975                                
+
+32        0.5       KOUQ                2.31558                       0.464746                                0.456047                                
+
+32        0.5       KOUQ                2.6317                        0.942896                                0.501259                                
+
+32        0.5       KOUQ                2.60519                       0.902375                                0.501091                                
+
+32        0.5       KOUQ                2                             0                                       0.350112                                
+
+64        0.5       KOUQ                2                             0                                       0.336952                                
+
+64        0.8       KOUQ                2                             0                                       0.530661                                
+
+64        0.5       KOUQ                2                             0                                       0.35912                                 
+
+64        0.5       KOUQ                2.83913                       1.06005                                 0.49295                                 
+
+64        0.5       KOUQ                2.87372                       1.23966                                 0.500059                                
+
